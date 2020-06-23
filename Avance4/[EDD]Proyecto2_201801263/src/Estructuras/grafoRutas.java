@@ -102,19 +102,22 @@ public class grafoRutas {
     public String getTxt(LS_Vertices listaV){
         String EstiloVertice =" \"width = 1 style = filled, fillcolor = lightskyblue];";
         String EstiloDestino=" \"width = 1 style = filled, fillcolor = \"#ccccff\"];";
+        String EstiloArista=" \"fontsize=8] ;";
         String label="";
+        nodoOrigen PruebaOrigen;
+        nodoDestino PruebaDestino;
         LS_Adyacencia listaA;
         nodoOrigen Aux=listaV.getInicio();
         nodoDestino AuxDestino;
         if(Aux != null){
-            do{       
+            do{
                 label += "nodo"+Aux.getNombreOrigen()+"[label=\""+ Aux.getNombreOrigen()+EstiloVertice+"\n";
                 listaA=Aux.getLstNodosDetino();
                 if(listaA.getInicio() != null){
                     AuxDestino = listaA.getInicio();
                     do{
                         label += "nodo"+AuxDestino.getNombreDestino()+"[label=\""+AuxDestino.getNombreDestino()+EstiloDestino+"\n";
-                        label+= "nodo"+Aux.getNombreOrigen()+"->"+"nodo"+AuxDestino.getNombreDestino()+";\n";
+                        label+= "nodo"+Aux.getNombreOrigen()+"->"+"nodo"+AuxDestino.getNombreDestino()+"[label=\""+AuxDestino.getTiempo()+EstiloArista+"\n";
                         AuxDestino= AuxDestino.sig;
                     }while(AuxDestino != null);
                 }   
