@@ -1,0 +1,16 @@
+digraph g {
+node [shape=record fontname=Arial];nodoTitulo[label="Origen: Cadiz, Destino: Valladolid, Total Tiempo: 1377 "width = 5 style = filled, fillcolor = mediumspringgreen];
+nodoCadiz[label="Cadiz "width = 1 style = filled, fillcolor = skyblue3];
+nodoCadiz->nodoSevilla [width= 1 style = filled, fillcolor = skyblue3];
+nodoSevilla[label="Sevilla "width = 1 style = filled, fillcolor = skyblue3];
+nodoSevilla->nodoJaen [width= 1 style = filled, fillcolor = skyblue3];
+nodoJaen[label="Jaen "width = 1 style = filled, fillcolor = skyblue3];
+nodoJaen->nodoMadrid [width= 1 style = filled, fillcolor = skyblue3];
+nodoMadrid[label="Madrid "width = 1 style = filled, fillcolor = skyblue3];
+nodoMadrid->nodoCadiz [width= 1 style = filled, fillcolor = skyblue3];
+nodoCadiz[label="Cadiz "width = 1 style = filled, fillcolor = skyblue3];
+nodoCadiz->nodoMadrid [width= 1 style = filled, fillcolor = skyblue3];
+nodoMadrid[label="Madrid "width = 1 style = filled, fillcolor = skyblue3];
+nodoMadrid->nodoValladolid [width= 1 style = filled, fillcolor = skyblue3];
+nodoValladolid[label="Valladolid "width = 1 style = filled, fillcolor = skyblue3];
+}
