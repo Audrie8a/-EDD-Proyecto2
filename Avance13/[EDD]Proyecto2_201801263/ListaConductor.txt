@@ -1,0 +1,11 @@
+digraph g {
+nodoxKXKj02IKYafXsPG6MHAG1hkwlP8zjdC[label="------ xKXKj02IKYafXsPG6MHAG1hkwlP8zjdC-------- 1-------- 2 ",style=filled,fillcolor = orange];
+nodoxKXKj02IKYafXsPG6MHAG1hkwlP8zjdC->nodox9Un5CGK8Mw4VvIoLmknYrOtLUDM7kjX
+nodoxKXKj02IKYafXsPG6MHAG1hkwlP8zjdC->nodo7pjTk329i4MQZjAENO5H97kg+LTI0qwg
+nodox9Un5CGK8Mw4VvIoLmknYrOtLUDM7kjX[label="------ x9Un5CGK8Mw4VvIoLmknYrOtLUDM7kjX-------- 1-------- 2 ",style=filled,fillcolor = orange];
+nodox9Un5CGK8Mw4VvIoLmknYrOtLUDM7kjX->nodo7pjTk329i4MQZjAENO5H97kg+LTI0qwg
+nodox9Un5CGK8Mw4VvIoLmknYrOtLUDM7kjX->nodoxKXKj02IKYafXsPG6MHAG1hkwlP8zjdC
+nodo7pjTk329i4MQZjAENO5H97kg+LTI0qwg[label="------ 7pjTk329i4MQZjAENO5H97kg+LTI0qwg-------- 1-------- 2 ",style=filled,fillcolor = orange];
+nodo7pjTk329i4MQZjAENO5H97kg+LTI0qwg->nodoxKXKj02IKYafXsPG6MHAG1hkwlP8zjdC
+nodo7pjTk329i4MQZjAENO5H97kg+LTI0qwg->nodox9Un5CGK8Mw4VvIoLmknYrOtLUDM7kjX
+}

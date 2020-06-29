@@ -1,0 +1,9 @@
+digraph g {
+node [shape=record fontname=Arial];nodo0[label="MN87YhML/VvLmZY8oPG11w3nPpBhwMNv, Bilbao, Gerona, Cliente: 1, Conductor: 1, Tiempo: 720 "width = 1 style = filled, fillcolor = skyblue3];
+nodo0->nodo1 [width= 1 style = filled, fillcolor = skyblue3];
+nodo1[label="KVhdrISlB4KnmkpIW2cK5HRfx0epnTlY, Bilbao, Zaragoza, Cliente: 1, Conductor: 1, Tiempo: 628 "width = 1 style = filled, fillcolor = skyblue3];
+nodo1->nodo2 [width= 1 style = filled, fillcolor = skyblue3];
+nodo2[label="pkdSr+184QZD4mir+D6Fe0j4+Oz68f0+, Oviedo, Zaragoza, Cliente: 1, Conductor: 1, Tiempo: 324 "width = 1 style = filled, fillcolor = skyblue3];
+nodo2->nodo3 [width= 1 style = filled, fillcolor = skyblue3];
+nodo3[label="EEvSmO3qrP/Y5G0YzIG8ElzBv+yn2KA4, Bilbao, Madrid, Cliente: 1, Conductor: 1, Tiempo: 395 "width = 1 style = filled, fillcolor = skyblue3];
+}
