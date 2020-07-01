@@ -1,0 +1,6 @@
+digraph g {
+node [shape=record fontname=Arial];nodoTitulo[label="Origen: Oviedo, Destino: Bilbao, Total Tiempo: 304 "width = 5 style = filled, fillcolor = mediumspringgreen];
+nodoOviedo[label="Oviedo "width = 1 style = filled, fillcolor = skyblue3];
+nodoOviedo->nodoBilbao [width= 1 style = filled, fillcolor = skyblue3];
+nodoBilbao[label="Bilbao "width = 1 style = filled, fillcolor = skyblue3];
+}

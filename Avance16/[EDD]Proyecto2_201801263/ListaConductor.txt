@@ -1,0 +1,35 @@
+digraph g {node [shape=record fontname=Arial];
+Conductor3046025070115[label="------ 3046025070115-------- Maxwellt "width = 1 style = filled, fillcolor = orange];
+Conductor3046025070115->Conductor1234567896308
+Conductor1234567896308->Conductor3046025070115
+Conductor1234567896308[label="------ 1234567896308-------- Prueba 1 "width = 1 style = filled, fillcolor = orange];
+Conductor1234567896308->Conductor1234567891454
+Conductor1234567891454->Conductor1234567896308
+Conductor1234567891454[label="------ 1234567891454-------- Prueba 2 "width = 1 style = filled, fillcolor = orange];
+Conductor1234567891454->Conductor1478520369852
+Conductor1478520369852->Conductor1234567891454
+Conductor1478520369852[label="------ 1478520369852-------- Prueba 3 "width = 1 style = filled, fillcolor = orange];
+Conductor1478520369852->Conductor1478521478521
+Conductor1478521478521->Conductor1478520369852
+Conductor1478521478521[label="------ 1478521478521-------- Prueba 4 "width = 1 style = filled, fillcolor = orange];
+Conductor1478521478521->Conductor1236541236540
+Conductor1236541236540->Conductor1478521478521
+Conductor1236541236540[label="------ 1236541236540-------- Prueba 5 "width = 1 style = filled, fillcolor = orange];
+Conductor1236541236540->Conductor1452365214521
+Conductor1452365214521->Conductor1236541236540
+Conductor1452365214521[label="------ 1452365214521-------- Prueba 6 "width = 1 style = filled, fillcolor = orange];
+Conductor1452365214521->Conductor1478520369010
+Conductor1478520369010->Conductor1452365214521
+Conductor1478520369010[label="------ 1478520369010-------- Prueba 7 "width = 1 style = filled, fillcolor = orange];
+Conductor1478520369010->Conductor1245214634578
+Conductor1245214634578->Conductor1478520369010
+Conductor1245214634578[label="------ 1245214634578-------- Prueba 8 "width = 1 style = filled, fillcolor = orange];
+Conductor1245214634578->Conductor7856214532895
+Conductor7856214532895->Conductor1245214634578
+Conductor7856214532895[label="------ 7856214532895-------- Prueba 9 "width = 1 style = filled, fillcolor = orange];
+Conductor7856214532895->Conductor5948263102785
+Conductor5948263102785->Conductor7856214532895
+Conductor5948263102785[label="------ 5948263102785-------- Prueba 10 "width = 1 style = filled, fillcolor = orange];
+Conductor5948263102785->Conductor3046025070115
+Conductor3046025070115->Conductor5948263102785
+}
