@@ -1,0 +1,320 @@
+digraph g {
+subgraph clusterTH_Cliente{
+ rankdir=MR; 
+ node[shape=record]
+0 [label="numero ------- 0----- Usuario - 0193318085715  contraseña - Oscar ",style= filled,fillcolor = green];
+1 [label="numero ------- 1----- Usuario - 2015481997537  contraseña - Anne ",style= filled,fillcolor = green];
+2 [label="numero ------- 2-------------- VACIO-------------- ",style= filled,fillcolor = red];
+3 [label="numero ------- 3----- Usuario - 4606480269853  contraseña - Hashim ",style= filled,fillcolor = green];
+4 [label="numero ------- 4----- Usuario - 9571373488729  contraseña - Keely ",style= filled,fillcolor = green];
+5 [label="numero ------- 5-------------- VACIO-------------- ",style= filled,fillcolor = red];
+6 [label="numero ------- 6----- Usuario - 3279031564682  contraseña - Kai ",style= filled,fillcolor = green];
+7 [label="numero ------- 7-------------- VACIO-------------- ",style= filled,fillcolor = red];
+8 [label="numero ------- 8----- Usuario - 9502963398846  contraseña - Levi ",style= filled,fillcolor = green];
+9 [label="numero ------- 9-------------- VACIO-------------- ",style= filled,fillcolor = red];
+10 [label="numero ------- 10----- Usuario - 6412735533384  contraseña - Wyatt ",style= filled,fillcolor = green];
+11 [label="numero ------- 11----- Usuario - 1706798815673  contraseña - Maris ",style= filled,fillcolor = green];
+12 [label="numero ------- 12-------------- VACIO-------------- ",style= filled,fillcolor = red];
+13 [label="numero ------- 13----- Usuario - 6512903047531  contraseña - Ulric ",style= filled,fillcolor = green];
+14 [label="numero ------- 14-------------- VACIO-------------- ",style= filled,fillcolor = red];
+15 [label="numero ------- 15-------------- VACIO-------------- ",style= filled,fillcolor = red];
+16 [label="numero ------- 16----- Usuario - 1446098715428  contraseña - Phelan ",style= filled,fillcolor = green];
+17 [label="numero ------- 17-------------- VACIO-------------- ",style= filled,fillcolor = red];
+18 [label="numero ------- 18-------------- VACIO-------------- ",style= filled,fillcolor = red];
+19 [label="numero ------- 19----- Usuario - 1259290137536  contraseña - Marsden ",style= filled,fillcolor = green];
+20 [label="numero ------- 20----- Usuario - 7595039835360  contraseña - Jesse ",style= filled,fillcolor = green];
+21 [label="numero ------- 21-------------- VACIO-------------- ",style= filled,fillcolor = red];
+22 [label="numero ------- 22----- Usuario - 1078746593749  contraseña - Kibo ",style= filled,fillcolor = green];
+23 [label="numero ------- 23----- Usuario - 2686125895389  contraseña - Nathan ",style= filled,fillcolor = green];
+24 [label="numero ------- 24-------------- VACIO-------------- ",style= filled,fillcolor = red];
+25 [label="numero ------- 25-------------- VACIO-------------- ",style= filled,fillcolor = red];
+26 [label="numero ------- 26----- Usuario - 5530157984908  contraseña - Tanya ",style= filled,fillcolor = green];
+27 [label="numero ------- 27-------------- VACIO-------------- ",style= filled,fillcolor = red];
+28 [label="numero ------- 28----- Usuario - 5654548344527  contraseña - Asher ",style= filled,fillcolor = green];
+29 [label="numero ------- 29-------------- VACIO-------------- ",style= filled,fillcolor = red];
+30 [label="numero ------- 30----- Usuario - 4983784286071  contraseña - Carlos ",style= filled,fillcolor = green];
+31 [label="numero ------- 31----- Usuario - 8279254155582  contraseña - Bruce ",style= filled,fillcolor = green];
+32 [label="numero ------- 32-------------- VACIO-------------- ",style= filled,fillcolor = red];
+33 [label="numero ------- 33----- Usuario - 7139580611377  contraseña - Mara ",style= filled,fillcolor = green];
+34 [label="numero ------- 34-------------- VACIO-------------- ",style= filled,fillcolor = red];
+35 [label="numero ------- 35-------------- VACIO-------------- ",style= filled,fillcolor = red];
+36 [label="numero ------- 36----- Usuario - 5846433322355  contraseña - Erich ",style= filled,fillcolor = green];
+37 [label="numero ------- 37-------------- VACIO-------------- ",style= filled,fillcolor = red];
+38 [label="numero ------- 38----- Usuario - 9757178323374  contraseña - Hayfa ",style= filled,fillcolor = green];
+39 [label="numero ------- 39----- Usuario - 2051621259388  contraseña - Jordan ",style= filled,fillcolor = green];
+40 [label="numero ------- 40-------------- VACIO-------------- ",style= filled,fillcolor = red];
+41 [label="numero ------- 41-------------- VACIO-------------- ",style= filled,fillcolor = red];
+42 [label="numero ------- 42----- Usuario - 4221153302946  contraseña - Jaquelyn ",style= filled,fillcolor = green];
+43 [label="numero ------- 43----- Usuario - 3357030498212  contraseña - Chancellor ",style= filled,fillcolor = green];
+44 [label="numero ------- 44-------------- VACIO-------------- ",style= filled,fillcolor = red];
+45 [label="numero ------- 45----- Usuario - 1094582216154  contraseña - Deborah ",style= filled,fillcolor = green];
+46 [label="numero ------- 46----- Usuario - 4977643504260  contraseña - Jessica ",style= filled,fillcolor = green];
+47 [label="numero ------- 47----- Usuario - 8064006748995  contraseña - Christine ",style= filled,fillcolor = green];
+48 [label="numero ------- 48----- Usuario - 8479915254812  contraseña - Clio ",style= filled,fillcolor = green];
+49 [label="numero ------- 49-------------- VACIO-------------- ",style= filled,fillcolor = red];
+50 [label="numero ------- 50----- Usuario - 7406721062987  contraseña - Alexander ",style= filled,fillcolor = green];
+51 [label="numero ------- 51----- Usuario - 6853678660409  contraseña - Shoshana ",style= filled,fillcolor = green];
+52 [label="numero ------- 52-------------- VACIO-------------- ",style= filled,fillcolor = red];
+53 [label="numero ------- 53----- Usuario - 5790511778222  contraseña - Hedda ",style= filled,fillcolor = green];
+54 [label="numero ------- 54-------------- VACIO-------------- ",style= filled,fillcolor = red];
+55 [label="numero ------- 55-------------- VACIO-------------- ",style= filled,fillcolor = red];
+56 [label="numero ------- 56----- Usuario - 7404926693939  contraseña - Xerxes ",style= filled,fillcolor = green];
+57 [label="numero ------- 57----- Usuario - 7501929582237  contraseña - Blake ",style= filled,fillcolor = green];
+58 [label="numero ------- 58-------------- VACIO-------------- ",style= filled,fillcolor = red];
+59 [label="numero ------- 59----- Usuario - 1223422007837  contraseña - Penelope ",style= filled,fillcolor = green];
+60 [label="numero ------- 60-------------- VACIO-------------- ",style= filled,fillcolor = red];
+61 [label="numero ------- 61----- Usuario - 5673491525039  contraseña - Jessica ",style= filled,fillcolor = green];
+62 [label="numero ------- 62----- Usuario - 8930381072670  contraseña - Tarik ",style= filled,fillcolor = green];
+63 [label="numero ------- 63----- Usuario - 8669591306594  contraseña - Rachel ",style= filled,fillcolor = green];
+64 [label="numero ------- 64----- Usuario - 6190562330091  contraseña - Judah ",style= filled,fillcolor = green];
+65 [label="numero ------- 65----- Usuario - 4333002035702  contraseña - Gage ",style= filled,fillcolor = green];
+66 [label="numero ------- 66----- Usuario - 2285230624658  contraseña - Stone ",style= filled,fillcolor = green];
+67 [label="numero ------- 67----- Usuario - 4873746570663  contraseña - Edan ",style= filled,fillcolor = green];
+68 [label="numero ------- 68-------------- VACIO-------------- ",style= filled,fillcolor = red];
+69 [label="numero ------- 69----- Usuario - 5999555549138  contraseña - George ",style= filled,fillcolor = green];
+70 [label="numero ------- 70----- Usuario - 2495374578416  contraseña - Quinn ",style= filled,fillcolor = green];
+71 [label="numero ------- 71----- Usuario - 1747479684508  contraseña - Daria ",style= filled,fillcolor = green];
+72 [label="numero ------- 72-------------- VACIO-------------- ",style= filled,fillcolor = red];
+0->1;
+1->2;
+2->3;
+3->4;
+4->5;
+5->6;
+6->7;
+7->8;
+8->9;
+9->10;
+10->11;
+11->12;
+12->13;
+13->14;
+14->15;
+15->16;
+16->17;
+17->18;
+18->19;
+19->20;
+20->21;
+21->22;
+22->23;
+23->24;
+24->25;
+25->26;
+26->27;
+27->28;
+28->29;
+29->30;
+30->31;
+31->32;
+32->33;
+33->34;
+34->35;
+35->36;
+36->37;
+37->38;
+38->39;
+39->40;
+40->41;
+41->42;
+42->43;
+43->44;
+44->45;
+45->46;
+46->47;
+47->48;
+48->49;
+49->50;
+50->51;
+51->52;
+52->53;
+53->54;
+54->55;
+55->56;
+56->57;
+57->58;
+58->59;
+59->60;
+60->61;
+61->62;
+62->63;
+63->64;
+64->65;
+65->66;
+66->67;
+67->68;
+68->69;
+69->70;
+70->71;
+71->72;
+72->73;
+6->Cliente7631742416697
+Cliente7631742416697[label="------ 7631742416697-------- Plato ",style=filled,fillcolor = orange];
+{ rank = same;6;Cliente7631742416697;}
+10->Cliente6474194328868
+Cliente6474194328868[label="------ 6474194328868-------- Jael ",style=filled,fillcolor = orange];
+Cliente6474194328868->Cliente2919897975502;
+Cliente2919897975502[label="------ 2919897975502-------- Joseph ",style=filled,fillcolor = orange];
+{ rank = same;10;Cliente6474194328868;Cliente2919897975502;}
+11->Cliente1732981910144
+Cliente1732981910144[label="------ 1732981910144-------- Dana ",style=filled,fillcolor = orange];
+Cliente1732981910144->Cliente7638177262969;
+Cliente7638177262969[label="------ 7638177262969-------- Daniel ",style=filled,fillcolor = orange];
+Cliente7638177262969->Cliente1251970308392;
+Cliente1251970308392[label="------ 1251970308392-------- Jasmine ",style=filled,fillcolor = orange];
+{ rank = same;11;Cliente1732981910144;Cliente7638177262969;Cliente1251970308392;}
+13->Cliente1830026212000
+Cliente1830026212000[label="------ 1830026212000-------- Fritz ",style=filled,fillcolor = orange];
+{ rank = same;13;Cliente1830026212000;}
+19->Cliente4420836927683
+Cliente4420836927683[label="------ 4420836927683-------- Otto ",style=filled,fillcolor = orange];
+{ rank = same;19;Cliente4420836927683;}
+20->Cliente9737919315677
+Cliente9737919315677[label="------ 9737919315677-------- Rahim ",style=filled,fillcolor = orange];
+{ rank = same;20;Cliente9737919315677;}
+23->Cliente5537726361959
+Cliente5537726361959[label="------ 5537726361959-------- Fatima ",style=filled,fillcolor = orange];
+{ rank = same;23;Cliente5537726361959;}
+38->Cliente0441666186474
+Cliente0441666186474[label="------ 0441666186474-------- Alice ",style=filled,fillcolor = orange];
+Cliente0441666186474->Cliente8196321793109;
+Cliente8196321793109[label="------ 8196321793109-------- Bernard ",style=filled,fillcolor = orange];
+{ rank = same;38;Cliente0441666186474;Cliente8196321793109;}
+39->Cliente6778404083327
+Cliente6778404083327[label="------ 6778404083327-------- Tarik ",style=filled,fillcolor = orange];
+{ rank = same;39;Cliente6778404083327;}
+43->Cliente2146121164569
+Cliente2146121164569[label="------ 2146121164569-------- Jack ",style=filled,fillcolor = orange];
+Cliente2146121164569->Cliente0337525975251;
+Cliente0337525975251[label="------ 0337525975251-------- Chandler ",style=filled,fillcolor = orange];
+{ rank = same;43;Cliente2146121164569;Cliente0337525975251;}
+45->Cliente2924104525712
+Cliente2924104525712[label="------ 2924104525712-------- Camilla ",style=filled,fillcolor = orange];
+{ rank = same;45;Cliente2924104525712;}
+46->Cliente0967595311362
+Cliente0967595311362[label="------ 0967595311362-------- Kuame ",style=filled,fillcolor = orange];
+{ rank = same;46;Cliente0967595311362;}
+47->Cliente5420601357515
+Cliente5420601357515[label="------ 5420601357515-------- Jameson ",style=filled,fillcolor = orange];
+Cliente5420601357515->Cliente9991675839622;
+Cliente9991675839622[label="------ 9991675839622-------- Xander ",style=filled,fillcolor = orange];
+Cliente9991675839622->Cliente4004020583237;
+Cliente4004020583237[label="------ 4004020583237-------- Sandra ",style=filled,fillcolor = orange];
+{ rank = same;47;Cliente5420601357515;Cliente9991675839622;Cliente4004020583237;}
+56->Cliente7951782069410
+Cliente7951782069410[label="------ 7951782069410-------- Suki ",style=filled,fillcolor = orange];
+{ rank = same;56;Cliente7951782069410;}
+70->Cliente0518724331258
+Cliente0518724331258[label="------ 0518724331258-------- Richard ",style=filled,fillcolor = orange];
+{ rank = same;70;Cliente0518724331258;}
+71->Cliente8324722614641
+Cliente8324722614641[label="------ 8324722614641-------- Suki ",style=filled,fillcolor = orange];
+{ rank = same;71;Cliente8324722614641;}
+
+} 
+node [shape=record fontname=Arial];nodo0[label="PPQi+i7ATO1FWxDkzmT+oMB3PeDTbkAT, Bilbao, Gerona, Cliente: 1706798815673, Conductor: 1234567896308, Tiempo: 720 "width = 1 style = filled, fillcolor = skyblue3];
+subgraph clusterTH_Vehiculo{
+ rankdir=MR; 
+ node [shape=record];
+Nodo910827330[label="<P0>|p8lAf8  SHITte|<P1>|p17lAf17  SHITte|<P2>|p26lAf26  SHITte|<P3>|p35lAf35  SHITte|<P4>"];
+Nodo1383072913[label="<P0>|p2lAf2  SHITte|<P1>|p5lAf5  SHITte|<P2>|p44lAf44  SHITte|<P3>|p47lAf47  SHITte|<P4>"];
+Nodo938601850[label="<P0>|p0lAf0  SHITte|<P1>|p1lAf1  SHITte|<P2>"];
+Nodo1383072913:P0 -> Nodo938601850;
+Nodo56655348[label="<P0>|p3lAf3  SHITte|<P1>|p4lAf4  SHITte|<P2>"];
+Nodo1383072913:P1 -> Nodo56655348;
+Nodo1698087637[label="<P0>|p6lAf6  SHITte|<P1>|p7lAf7  SHITte|<P2>"];
+Nodo1383072913:P2 -> Nodo1698087637;
+Nodo934282862[label="<P0>|p45lAf45  SHITte|<P1>|p46lAf46  SHITte|<P2>"];
+Nodo1383072913:P3 -> Nodo934282862;
+Nodo261269471[label="<P0>|p48lAf48  SHITte|<P1>|p49lAf49  SHITte|<P2>"];
+Nodo1383072913:P4 -> Nodo261269471;
+Nodo910827330:P0 -> Nodo1383072913;
+Nodo253617156[label="<P0>|p11lAf11  SHITte|<P1>|p14lAf14  SHITte|<P2>"];
+Nodo1550761816[label="<P0>|p9lAf9  SHITte|<P1>|p10lAf10  SHITte|<P2>"];
+Nodo253617156:P0 -> Nodo1550761816;
+Nodo1801081293[label="<P0>|p12lAf12  SHITte|<P1>|p13lAf13  SHITte|<P2>"];
+Nodo253617156:P1 -> Nodo1801081293;
+Nodo1911336742[label="<P0>|p15lAf15  SHITte|<P1>|p16lAf16  SHITte|<P2>"];
+Nodo253617156:P2 -> Nodo1911336742;
+Nodo910827330:P1 -> Nodo253617156;
+Nodo296835291[label="<P0>|p20lAf20  SHITte|<P1>|p23lAf23  SHITte|<P2>"];
+Nodo948744650[label="<P0>|p18lAf18  SHITte|<P1>|p19lAf19  SHITte|<P2>"];
+Nodo296835291:P0 -> Nodo948744650;
+Nodo31542063[label="<P0>|p21lAf21  SHITte|<P1>|p22lAf22  SHITte|<P2>"];
+Nodo296835291:P1 -> Nodo31542063;
+Nodo358629802[label="<P0>|p24lAf24  SHITte|<P1>|p25lAf25  SHITte|<P2>"];
+Nodo296835291:P2 -> Nodo358629802;
+Nodo910827330:P2 -> Nodo296835291;
+Nodo244102237[label="<P0>|p29lAf29  SHITte|<P1>|p32lAf32  SHITte|<P2>"];
+Nodo1397966503[label="<P0>|p27lAf27  SHITte|<P1>|p28lAf28  SHITte|<P2>"];
+Nodo244102237:P0 -> Nodo1397966503;
+Nodo1491126225[label="<P0>|p30lAf30  SHITte|<P1>|p31lAf31  SHITte|<P2>"];
+Nodo244102237:P1 -> Nodo1491126225;
+Nodo1335537782[label="<P0>|p33lAf33  SHITte|<P1>|p34lAf34  SHITte|<P2>"];
+Nodo244102237:P2 -> Nodo1335537782;
+Nodo910827330:P3 -> Nodo244102237;
+Nodo610257796[label="<P0>|p38lAf38  SHITte|<P1>|p41lAf41  SHITte|<P2>"];
+Nodo1844496342[label="<P0>|p36lAf36  SHITte|<P1>|p37lAf37  SHITte|<P2>"];
+Nodo610257796:P0 -> Nodo1844496342;
+Nodo863001590[label="<P0>|p39lAf39  SHITte|<P1>|p40lAf40  SHITte|<P2>"];
+Nodo610257796:P1 -> Nodo863001590;
+Nodo703808750[label="<P0>|p42lAf42  SHITte|<P1>|p43lAf43  SHITte|<P2>"];
+Nodo610257796:P2 -> Nodo703808750;
+Nodo910827330:P4 -> Nodo610257796;
+
+} 
+subgraph cluster_Grafo{ 
+ rankdir=MR; 
+node [shape=record fontname=Arial];nodoTitulo[label="Origen: Bilbao, Destino: Gerona, Total Tiempo: 720 "width = 5 style = filled, fillcolor = mediumspringgreen];
+nodoBilbao[label="Bilbao "width = 1 style = filled, fillcolor = skyblue3];
+nodoBilbao->nodoZaragoza [width= 1 style = filled, fillcolor = skyblue3];
+nodoZaragoza[label="Zaragoza "width = 1 style = filled, fillcolor = skyblue3];
+nodoZaragoza->nodoBarcelona [width= 1 style = filled, fillcolor = skyblue3];
+nodoBarcelona[label="Barcelona "width = 1 style = filled, fillcolor = skyblue3];
+nodoBarcelona->nodoGerona [width= 1 style = filled, fillcolor = skyblue3];
+nodoGerona[label="Gerona "width = 1 style = filled, fillcolor = skyblue3];
+
+ }
+subgraph clusterLDC_conductor{
+ rankdir=MR;
+node [shape=record fontname=Arial];
+Conductor3046025070115[label="------ 3046025070115-------- Maxwellt "width = 1 style = filled, fillcolor = orange];
+Conductor3046025070115->Conductor1234567896308
+Conductor1234567896308->Conductor3046025070115
+Conductor1234567896308[label="------ 1234567896308-------- Prueba 1 "width = 1 style = filled, fillcolor = orange];
+Conductor1234567896308->Conductor1234567891454
+Conductor1234567891454->Conductor1234567896308
+Conductor1234567891454[label="------ 1234567891454-------- Prueba 2 "width = 1 style = filled, fillcolor = orange];
+Conductor1234567891454->Conductor1478520369852
+Conductor1478520369852->Conductor1234567891454
+Conductor1478520369852[label="------ 1478520369852-------- Prueba 3 "width = 1 style = filled, fillcolor = orange];
+Conductor1478520369852->Conductor1478521478521
+Conductor1478521478521->Conductor1478520369852
+Conductor1478521478521[label="------ 1478521478521-------- Prueba 4 "width = 1 style = filled, fillcolor = orange];
+Conductor1478521478521->Conductor1236541236540
+Conductor1236541236540->Conductor1478521478521
+Conductor1236541236540[label="------ 1236541236540-------- Prueba 5 "width = 1 style = filled, fillcolor = orange];
+Conductor1236541236540->Conductor1452365214521
+Conductor1452365214521->Conductor1236541236540
+Conductor1452365214521[label="------ 1452365214521-------- Prueba 6 "width = 1 style = filled, fillcolor = orange];
+Conductor1452365214521->Conductor1478520369010
+Conductor1478520369010->Conductor1452365214521
+Conductor1478520369010[label="------ 1478520369010-------- Prueba 7 "width = 1 style = filled, fillcolor = orange];
+Conductor1478520369010->Conductor1245214634578
+Conductor1245214634578->Conductor1478520369010
+Conductor1245214634578[label="------ 1245214634578-------- Prueba 8 "width = 1 style = filled, fillcolor = orange];
+Conductor1245214634578->Conductor7856214532895
+Conductor7856214532895->Conductor1245214634578
+Conductor7856214532895[label="------ 7856214532895-------- Prueba 9 "width = 1 style = filled, fillcolor = orange];
+Conductor7856214532895->Conductor5948263102785
+Conductor5948263102785->Conductor7856214532895
+Conductor5948263102785[label="------ 5948263102785-------- Prueba 10 "width = 1 style = filled, fillcolor = orange];
+Conductor5948263102785->Conductor3046025070115
+Conductor3046025070115->Conductor5948263102785
+
+}
+nodo0->nodoBilbao
+nodo0->Conductor1234567896308
+nodo0->Cliente1706798815673
+nodo0->p0lAf0
+}

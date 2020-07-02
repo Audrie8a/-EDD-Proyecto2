@@ -1,0 +1,5 @@
+digraph g {
+node [shape=record fontname=Arial];nodo0[label="VoiSwgoUuKPAG7rdXmTu+knVz9WW7ihQAgE3Fl8Z34k=, Oviedo, Bilbao, Cliente: 5654548344527, Conductor: 3046025070115, Tiempo: 304 "width = 1 style = filled, fillcolor = skyblue3];
+nodo0->nodo1 [width= 1 style = filled, fillcolor = skyblue3];
+nodo1[label="jEivIkTkBKbxVDchwA2/W9tfFu8QotfQjZIUkXcgB0E=, Oviedo, Bilbao, Cliente: 5654548344527, Conductor: 3046025070115, Tiempo: 304 "width = 1 style = filled, fillcolor = skyblue3];
+}
